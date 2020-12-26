@@ -17,4 +17,4 @@ If you are working remotely, follow this [guide](notes/remote-working-guide.md).
 
 Detailed instructions for setting up a development environment for the course are given in [this file](notes/environment-set-up.md). Students doing the course will spend part of the first lab getting their own environment set up.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerryzhao173985/mlpractical/mlp2020-21/coursework_2)
+
