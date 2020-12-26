@@ -1,5 +1,6 @@
 # Machine Learning Practical
 My fork adds this binder link that I use this (Binderhub + Juno Connect) on ipad and iphone; On my iphone 11 pro max, 1 episode of VGG08 costs 15min; Using Binder, I can use pytorch and more packages with ipad/iphone deep learning coding! (See cw_2 have binder link)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerryzhao173985/mlpractical/mlp2020-21/coursework_2)
 
 This repository contains the code for the University of Edinburgh [School of Informatics](http://www.inf.ed.ac.uk) course [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/).
